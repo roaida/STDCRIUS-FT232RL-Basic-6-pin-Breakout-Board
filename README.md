@@ -39,9 +39,9 @@ This project is a schematic design for a CRIUS-style FT232RL USB to Serial break
 - VCCIO is connected to +5V, making the UART interface 5V compatible.
 
 ## Files Included
-- `FT232RL_Schematic.PrjPcb`: Altium project file
+- `FT232RL_Schematic.PrjPcb`: Altium project file Description 
 - `FT232RL_Schematic.SchDoc`: Main schematic
-- (Optional) `FT232RL_PCB.PcbDoc`: PCB layout (if completed)
+- (Optional) `FT232RL_PCB.PcbDoc`: PCB layout
 - `README.md`: Project documentation
 
 
