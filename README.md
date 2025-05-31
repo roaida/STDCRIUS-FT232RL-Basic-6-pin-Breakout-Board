@@ -2,7 +2,7 @@
 
 This project is a schematic design for a CRIUS-style FT232RL USB to Serial breakout board, created using Altium Designer. The board allows for USB communication with microcontrollers and other serial devices using the FT232RL USB-to-UART converter.
 
-## 🔧 Features
+## Features
 - FT232RL USB-to-Serial converter (U1)
 - USB Mini-B connector (J2)
 - 6-pin serial I/O header (J1)
@@ -10,7 +10,7 @@ This project is a schematic design for a CRIUS-style FT232RL USB to Serial break
 - Power supply decoupling capacitors
 - Clean GND connection with polygon pour in PCB layout
   
-## 🧩 Schematic Overview
+## Schematic Overview
 | Component | Description |
 |----------|-------------|
 | **U1 (FT232RL)** | USB to UART bridge IC from FTDI |
@@ -39,9 +39,9 @@ This project is a schematic design for a CRIUS-style FT232RL USB to Serial break
 - VCCIO is connected to +5V, making the UART interface 5V compatible.
 
 ## Files Included
-- `FT232RL_Schematic.PrjPcb`: Altium project file Description 
-- `FT232RL_Schematic.SchDoc`: Main schematic
-- (Optional) `FT232RL_PCB.PcbDoc`: PCB layout
-- `README.md`: Project documentation
+-  Altium project file Description 
+-  Main schematic
+-  PCB layout [2D & 3D]
+-  Project documentation
 
 
